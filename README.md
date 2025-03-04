@@ -2,9 +2,17 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18517052&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
-
+The is a system that tracks changes in a file in a given period of time, which allow multiple users to collaborate on a project efficiently. It allow users to revert prevoius versions, track modification, and resolve conficts that may arise in the process. 
+Github is a popular version of control version because it provide hosting for resporitories, collaboration, and intergration features together with other development tools.
+Version control help in preventing data loss as every change can be tracked, promote collaboration in that multiple users can work on the same project without overwriting, engance tranceparency as every change is tracked and timestamped, and it ensure code quality. 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
-
+Step 1: Log into a Github account, or create you do not have one.
+Step 2: Create a new repository by clicking on a profile picture, then click on repositories, new; then fill in name and other details
+Step 3: Initializing the repository
+Step 4: Cloning the repositories; 
+Step 5: Add and commit files; 
+Step 6: Merge repositories
+The important decision to be made are 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
